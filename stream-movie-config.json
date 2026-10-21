@@ -25,7 +25,7 @@
     {
       "key": "cinesrc",
       "name": "Server 1",
-      "on": false,
+      "on": true,
       "nosandbox": false,
       "movie": "https://cinesrc.st/embed/movie/{id}",
       "tv": "https://cinesrc.st/embed/tv/{id}?s={s}&e={e}"
@@ -33,7 +33,7 @@
     {
       "key": "vidcore",
       "name": "Server 2",
-      "on": false,
+      "on": true,
       "nosandbox": false,
       "movie": "https://vidcore.org/embed/movie/{id}",
       "tv": "https://vidcore.org/embed/tv/{id}/{s}/{e}"
