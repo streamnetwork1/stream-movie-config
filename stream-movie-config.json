@@ -6,13 +6,13 @@
   "useGradient": true,
   "bgImage": "",
   "bgOverlay": 0.7,
-  "intro": false,
+  "intro": true,
   "introSub": "Live · Music · Video · Cinema",
   "registrationOpen": true,
   "maintenance": false,
   "maintenanceMsg": "We will be back soon.",
-  "announcementOn": true,
-  "announcement": "hi",
+  "announcementOn": false,
+  "announcement": "",
   "playerSandbox": {
     "enabled": false
   },
