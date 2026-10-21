@@ -1,8 +1,8 @@
 {
   "siteName": "STREAM",
-  "accent": "#ffffff",
-  "bg": "#000000",
-  "bg2": "#111111",
+  "accent": "#38bdf8",
+  "bg": "#030a12",
+  "bg2": "#082a44",
   "useGradient": true,
   "bgImage": "",
   "bgOverlay": 0.7,
