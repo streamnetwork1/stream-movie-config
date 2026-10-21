@@ -11,7 +11,7 @@
   "registrationOpen": true,
   "maintenance": false,
   "maintenanceMsg": "We will be back soon.",
-  "announcementOn": false,
+  "announcementOn": true,
   "announcement": "",
   "playerSandbox": {
     "enabled": false
