@@ -12,7 +12,7 @@
   "maintenance": false,
   "maintenanceMsg": "We will be back soon.",
   "announcementOn": true,
-  "announcement": "",
+  "announcement": "hi",
   "playerSandbox": {
     "enabled": false
   },
