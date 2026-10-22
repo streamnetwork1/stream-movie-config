@@ -1,9 +1,9 @@
 {
   "siteName": "STREAM",
-  "accent": "#ff3b4e",
-  "bg": "#0a0305",
-  "bg2": "#2a0610",
-  "useGradient": true,
+  "accent": "#ffffff",
+  "bg": "#000000",
+  "bg2": "#0a0a1f",
+  "useGradient": false,
   "bgImage": "",
   "bgOverlay": 0.7,
   "intro": true,
@@ -86,10 +86,14 @@
       "browse",
       "tv",
       "history",
+      "premium",
+      "chat",
       "agreement",
-      "contact",
-      "premium"
+      "contact"
     ]
+  },
+  "chat": {
+    "enabled": true
   },
   "premiumInfo": {
     "enabled": true,
