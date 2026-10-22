@@ -1,8 +1,8 @@
 {
   "siteName": "STREAM",
-  "accent": "#38bdf8",
-  "bg": "#030a12",
-  "bg2": "#082a44",
+  "accent": "#ff3b4e",
+  "bg": "#0a0305",
+  "bg2": "#2a0610",
   "useGradient": true,
   "bgImage": "",
   "bgOverlay": 0.7,
@@ -87,8 +87,25 @@
       "tv",
       "history",
       "agreement",
-      "contact"
+      "contact",
+      "premium"
     ]
+  },
+  "premiumInfo": {
+    "enabled": true,
+    "title": "Go Premium",
+    "intro": "Enjoy the site without interruptions.",
+    "features": [
+      "No ads anywhere on the site",
+      "No popup ads",
+      "Popups blocked and safer video playback",
+      "Your premium end date and live countdown in your profile"
+    ],
+    "priceText": "",
+    "buttonLabel": "Get Premium",
+    "contactType": "email",
+    "contactValue": "",
+    "message": "Hi! I would like a premium account on {site}. My username: {user}"
   },
   "screenSize": {
     "w": "",
