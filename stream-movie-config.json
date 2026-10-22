@@ -119,9 +119,9 @@
   "agreement": {
     "enabled": false,
     "required": true,
-    "version": 1,
     "title": "Terms & Agreement",
-    "text": "By using this site you agree to these terms.\n\n1. Use the site for personal, lawful use only.\n2. Keep your name and password private — one account per device.\n3. The owner may block accounts that break these rules."
+    "text": "By using this site you agree to these terms.\n\n1. Use the site for personal, lawful use only.\n2. Keep your name and password private — one account per device.\n3. The owner may block accounts that break these rules.",
+    "version": 2
   },
   "earn": {
     "on": false,
