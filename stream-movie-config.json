@@ -112,9 +112,9 @@
     "message": "Hi! I would like a premium account on {site}. My username: {user}"
   },
   "screenSize": {
-    "w": "",
-    "h": "",
-    "label": "Auto"
+    "w": "1366",
+    "h": "768",
+    "label": "Laptop"
   },
   "agreement": {
     "enabled": false,
