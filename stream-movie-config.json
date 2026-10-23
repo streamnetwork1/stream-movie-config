@@ -54,7 +54,7 @@
     ]
   },
   "chat": {
-    "enabled": false
+    "enabled": true
   },
   "protect": {
     "enabled": true,
