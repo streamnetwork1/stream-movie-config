@@ -22,7 +22,24 @@
   "tmdbToken": "",
   "tmdbProxy": "https://tmdb-proxy.streamcenter207.workers.dev",
   "tmdbLang": "en-US",
-  "servers": [],
+  "servers": [
+    {
+      "key": "cinesrc",
+      "name": "Server 1",
+      "on": true,
+      "nosandbox": false,
+      "movie": "https://cinesrc.st/embed/movie/{id}",
+      "tv": "https://cinesrc.st/embed/tv/{id}?s={s}&e={e}"
+    },
+    {
+      "key": "vidcore",
+      "name": "Server 2",
+      "on": true,
+      "nosandbox": false,
+      "movie": "https://vidcore.org/embed/movie/{id}",
+      "tv": "https://vidcore.org/embed/tv/{id}/{s}/{e}"
+    }
+  ],
   "about": {
     "name": "STREAM",
     "role": "Cinema · Movies · TV",
