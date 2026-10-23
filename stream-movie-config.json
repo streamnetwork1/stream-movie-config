@@ -54,7 +54,7 @@
     ]
   },
   "chat": {
-    "enabled": true
+    "enabled": false
   },
   "protect": {
     "enabled": true,
@@ -147,11 +147,6 @@
   "earn": {
     "on": true,
     "units": {
-      "linkbtn": {
-        "on": true,
-        "where": "top",
-        "label": "Support us"
-      },
       "popunder": {
         "on": true
       },
@@ -188,6 +183,11 @@
       "b160x600": {
         "on": true,
         "where": "right_rail"
+      },
+      "linkbtn": {
+        "on": true,
+        "where": "top",
+        "label": "Support us"
       }
     }
   }
