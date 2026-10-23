@@ -20,7 +20,7 @@
     "enabled": false
   },
   "tmdbToken": "",
-  "tmdbProxy": "https://tmdb-proxy.streamcenter207.workers.dev",
+  "tmdbProxy": "",
   "tmdbLang": "en-US",
   "servers": [],
   "about": {
