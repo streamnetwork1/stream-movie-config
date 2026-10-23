@@ -20,6 +20,7 @@
     "enabled": false
   },
   "tmdbToken": "",
+  "tmdbProxy": "",
   "tmdbLang": "en-US",
   "servers": [],
   "about": {
@@ -53,7 +54,7 @@
     ]
   },
   "chat": {
-    "enabled": false
+    "enabled": true
   },
   "protect": {
     "enabled": true,
