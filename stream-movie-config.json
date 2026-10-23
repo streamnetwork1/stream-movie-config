@@ -182,6 +182,11 @@
       "b160x600": {
         "on": true,
         "where": "right_rail"
+      },
+      "linkbtn": {
+        "on": false,
+        "where": "top",
+        "label": "Support us"
       }
     }
   }
