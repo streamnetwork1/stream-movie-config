@@ -43,9 +43,10 @@
       "key": "smvl7gjih",
       "name": "Server 3",
       "on": true,
-      "nosandbox": false,
+      "nosandbox": true,
       "movie": "https://vidsrc.sh/embed/movie/{id}",
-      "tv": "https://vidsrc.sh/embed/tv/{id}/{s}/{e}"
+      "tv": "https://vidsrc.sh/embed/tv/{id}/{s}/{e}",
+      "pproxy": true
     }
   ],
   "about": {
