@@ -46,6 +46,14 @@
       "nosandbox": false,
       "movie": "https://vidsrc.mov/embed/movie/{id}",
       "tv": "https://vidsrc.mov/embed/tv/{id}/{s}/{e}"
+    },
+    {
+      "key": "smvm8fjns",
+      "name": "Server 4",
+      "on": true,
+      "nosandbox": false,
+      "movie": "https://vidsrc.sh/embed/movie/{id}",
+      "tv": "https://vidsrc.sh/embed/tv/{id}/{s}/{e}"
     }
   ],
   "about": {
