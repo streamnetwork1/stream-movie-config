@@ -38,6 +38,14 @@
       "nosandbox": false,
       "movie": "https://vidcore.org/embed/movie/{id}",
       "tv": "https://vidcore.org/embed/tv/{id}/{s}/{e}"
+    },
+    {
+      "key": "smvm89xz6",
+      "name": "Server 3",
+      "on": true,
+      "nosandbox": false,
+      "movie": "https://vidsrc.mov/embed/movie/{id}",
+      "tv": "https://vidsrc.mov/embed/tv/{id}/{s}/{e}"
     }
   ],
   "about": {
