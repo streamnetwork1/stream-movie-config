@@ -29,7 +29,8 @@
       "on": true,
       "nosandbox": false,
       "movie": "https://cinesrc.st/embed/movie/{id}",
-      "tv": "https://cinesrc.st/embed/tv/{id}?s={s}&e={e}"
+      "tv": "https://cinesrc.st/embed/tv/{id}?s={s}&e={e}",
+      "pproxy": true
     },
     {
       "key": "vidcore",
@@ -37,7 +38,8 @@
       "on": true,
       "nosandbox": false,
       "movie": "https://vidcore.org/embed/movie/{id}",
-      "tv": "https://vidcore.org/embed/tv/{id}/{s}/{e}"
+      "tv": "https://vidcore.org/embed/tv/{id}/{s}/{e}",
+      "pproxy": true
     },
     {
       "key": "smvm89xz6",
@@ -63,7 +65,8 @@
       "on": true,
       "nosandbox": false,
       "movie": "https://2embed.online/embed/movie/{id}",
-      "tv": "https://2embed.online/embed/tv/{id}/{s}/{e}?autoplay=true"
+      "tv": "https://2embed.online/embed/tv/{id}/{s}/{e}?autoplay=true",
+      "pproxy": true
     },
     {
       "key": "smvm8n4nb",
@@ -80,7 +83,8 @@
       "on": true,
       "nosandbox": false,
       "movie": "https://vidlink.pro/movie/{id}",
-      "tv": "https://vidlink.pro/tv/{id}/{s}/{e}"
+      "tv": "https://vidlink.pro/tv/{id}/{s}/{e}",
+      "pproxy": true
     },
     {
       "key": "smvmna67z",
@@ -88,7 +92,8 @@
       "on": true,
       "nosandbox": false,
       "movie": "https://embedwave.cc/embed/movie/{id}",
-      "tv": "https://embedwave.cc/embed/tv/{id}/{s}/{e}"
+      "tv": "https://embedwave.cc/embed/tv/{id}/{s}/{e}",
+      "pproxy": true
     },
     {
       "key": "smvmna9j9",
@@ -96,7 +101,8 @@
       "on": true,
       "nosandbox": false,
       "movie": "https://vidsrc.to/embed/movie/{id}",
-      "tv": "https://vidsrc.to/embed/tv/{id}/{s}"
+      "tv": "https://vidsrc.to/embed/tv/{id}/{s}",
+      "pproxy": true
     }
   ],
   "about": {
