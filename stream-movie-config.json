@@ -73,6 +73,14 @@
       "movie": "https://www.2embed.cc/embed/{id}",
       "tv": "https://www.2embed.cc/embedtv/{id}?s={s}&e={e}",
       "pproxy": true
+    },
+    {
+      "key": "smvmn8gpq",
+      "name": "Server 7",
+      "on": true,
+      "nosandbox": false,
+      "movie": "https://vidlink.pro/movie/{id}",
+      "tv": "https://vidlink.pro/tv/{id}/{s}/{e}"
     }
   ],
   "about": {
