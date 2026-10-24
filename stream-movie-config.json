@@ -54,6 +54,14 @@
       "nosandbox": false,
       "movie": "https://vidsrc.sh/embed/movie/{id}",
       "tv": "https://vidsrc.sh/embed/tv/{id}/{s}/{e}"
+    },
+    {
+      "key": "smvm8jnjq",
+      "name": "Server 5",
+      "on": true,
+      "nosandbox": false,
+      "movie": "https://2embed.online/embed/movie/{id}",
+      "tv": "https://2embed.online/embed/tv/{id}/{s}/{e}?autoplay=true"
     }
   ],
   "about": {
