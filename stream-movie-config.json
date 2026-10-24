@@ -69,7 +69,8 @@
       "on": true,
       "nosandbox": true,
       "movie": "https://www.2embed.cc/embed/{id}",
-      "tv": "https://www.2embed.cc/embedtv/{id}?s={s}&e={e}"
+      "tv": "https://www.2embed.cc/embedtv/{id}?s={s}&e={e}",
+      "pproxy": true
     }
   ],
   "about": {
