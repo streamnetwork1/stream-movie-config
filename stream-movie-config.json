@@ -81,6 +81,22 @@
       "nosandbox": false,
       "movie": "https://vidlink.pro/movie/{id}",
       "tv": "https://vidlink.pro/tv/{id}/{s}/{e}"
+    },
+    {
+      "key": "smvmna67z",
+      "name": "Server 8",
+      "on": true,
+      "nosandbox": false,
+      "movie": "https://embedwave.cc/embed/movie/{id}",
+      "tv": "https://embedwave.cc/embed/tv/{id}/{s}/{e}"
+    },
+    {
+      "key": "smvmna9j9",
+      "name": "Server 9",
+      "on": true,
+      "nosandbox": false,
+      "movie": "https://vidsrc.to/embed/movie/{id}",
+      "tv": "https://vidsrc.to/embed/tv/{id}/{s}"
     }
   ],
   "about": {
