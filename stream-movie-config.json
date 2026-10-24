@@ -62,6 +62,14 @@
       "nosandbox": false,
       "movie": "https://2embed.online/embed/movie/{id}",
       "tv": "https://2embed.online/embed/tv/{id}/{s}/{e}?autoplay=true"
+    },
+    {
+      "key": "smvm8n4nb",
+      "name": "Server 6",
+      "on": true,
+      "nosandbox": false,
+      "movie": "https://www.2embed.cc/embed/{id}",
+      "tv": "https://www.2embed.cc/embedtv/{id}?s={s}&e={e}"
     }
   ],
   "about": {
