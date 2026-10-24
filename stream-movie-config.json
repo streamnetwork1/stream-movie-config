@@ -159,8 +159,8 @@
       ]
     },
     "proxy": {
-      "on": false,
-      "url": ""
+      "on": true,
+      "url": "https://video-proxy.streamcenter207.workers.dev/?url={url}"
     },
     "focus": {
       "on": true
