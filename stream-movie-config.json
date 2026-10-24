@@ -67,10 +67,10 @@
       "key": "smvm8n4nb",
       "name": "Server 6",
       "on": true,
-      "nosandbox": true,
+      "nosandbox": false,
       "movie": "https://www.2embed.cc/embed/{id}",
       "tv": "https://www.2embed.cc/embedtv/{id}?s={s}&e={e}",
-      "pproxy": true
+      "pproxy": false
     }
   ],
   "about": {
