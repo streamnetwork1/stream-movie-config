@@ -148,7 +148,7 @@
       "key": "smvqxmd1o",
       "name": "Server 15",
       "on": true,
-      "nosandbox": false,
+      "nosandbox": true,
       "movie": "https://allflix.org/watch/movie/{id}",
       "tv": "https://allflix.org/watch/tv/{id}/{s}/{e}"
     },
