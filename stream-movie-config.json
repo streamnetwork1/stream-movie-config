@@ -108,7 +108,7 @@
       "key": "smvqadnyy",
       "name": "Server 10",
       "on": true,
-      "nosandbox": false,
+      "nosandbox": true,
       "movie": "https://player.vidlove.cc/embed/movie/{id}",
       "tv": "https://player.vidlove.cc/embed/tv/{id}/{s}/{e}"
     }
