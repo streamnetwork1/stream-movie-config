@@ -143,6 +143,14 @@
       "nosandbox": false,
       "movie": "https://framextv.cc/watch/{id}",
       "tv": "https://framextv.cc/watch/{id}/{s}/{e}"
+    },
+    {
+      "key": "smvqxmd1o",
+      "name": "Server 15",
+      "on": true,
+      "nosandbox": false,
+      "movie": "https://allflix.org/watch/movie/{id}",
+      "tv": "https://allflix.org/watch/tv/{id}/{s}/{e}"
     }
   ],
   "about": {
