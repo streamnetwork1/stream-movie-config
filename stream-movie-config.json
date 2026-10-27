@@ -164,7 +164,7 @@
       "key": "smvqxpgtn",
       "name": "Server 17",
       "on": true,
-      "nosandbox": false,
+      "nosandbox": true,
       "movie": "https://zxcstream.com/watch/movie/{id}",
       "tv": "https://zxcstream.com/details/tv/{id}/{s}/{e}"
     },
