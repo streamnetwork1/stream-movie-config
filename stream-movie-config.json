@@ -111,6 +111,14 @@
       "nosandbox": true,
       "movie": "https://player.vidlove.cc/embed/movie/{id}",
       "tv": "https://player.vidlove.cc/embed/tv/{id}/{s}/{e}"
+    },
+    {
+      "key": "smvqkj95a",
+      "name": "Server 11",
+      "on": true,
+      "nosandbox": false,
+      "movie": "https://nexa.mov/watch/tmdb-movie/{id}",
+      "tv": "https://nexa.mov/watch/tmdb-tv/{id}/s{s}-e{e}"
     }
   ],
   "about": {
