@@ -101,8 +101,16 @@
       "on": true,
       "nosandbox": true,
       "movie": "https://vidsrc.to/embed/movie/{id}",
-      "tv": "https://vidsrc.to/embed/tv/{id}/{s}",
+      "tv": "https://vidsrc.to/embed/tv/{id}/{s}/{e}",
       "pproxy": true
+    },
+    {
+      "key": "smvqadnyy",
+      "name": "Server 10",
+      "on": true,
+      "nosandbox": false,
+      "movie": "https://player.vidlove.cc/embed/movie/{id}",
+      "tv": "https://player.vidlove.cc/embed/tv/{id}/{s}/{e}"
     }
   ],
   "about": {
@@ -229,11 +237,6 @@
   "earn": {
     "on": true,
     "units": {
-      "linkbtn": {
-        "on": true,
-        "where": "floating",
-        "label": "Support us"
-      },
       "popunder": {
         "on": true
       },
@@ -270,6 +273,11 @@
       "b160x600": {
         "on": true,
         "where": "right_rail"
+      },
+      "linkbtn": {
+        "on": true,
+        "where": "floating",
+        "label": "Support us"
       }
     }
   }
