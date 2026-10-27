@@ -135,6 +135,14 @@
       "nosandbox": false,
       "movie": "https://cinebros.net/watch/movie/{id}",
       "tv": "https://cinebros.net/watch/tv/{id}?s={s}&e={e}"
+    },
+    {
+      "key": "smvqxefki",
+      "name": "Server 14",
+      "on": true,
+      "nosandbox": false,
+      "movie": "https://framextv.cc/watch/{id}",
+      "tv": "https://framextv.cc/watch/{id}/{s}/{e}"
     }
   ],
   "about": {
