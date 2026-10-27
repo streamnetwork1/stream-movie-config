@@ -119,6 +119,14 @@
       "nosandbox": false,
       "movie": "https://nexa.mov/watch/tmdb-movie/{id}",
       "tv": "https://nexa.mov/watch/tmdb-tv/{id}/s{s}-e{e}"
+    },
+    {
+      "key": "smvqkprjt",
+      "name": "Server 12",
+      "on": true,
+      "nosandbox": false,
+      "movie": "https://cinevu.icu/player.html?type=movie&id={id}",
+      "tv": "https://cinevu.icu/player.html?type=tv&id={id}&season={s}&episode={e}"
     }
   ],
   "about": {
