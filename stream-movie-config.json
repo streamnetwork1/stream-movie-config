@@ -45,7 +45,7 @@
       "key": "smvm89xz6",
       "name": "Server 3",
       "on": true,
-      "nosandbox": false,
+      "nosandbox": true,
       "movie": "https://vidsrc.mov/embed/movie/{id}",
       "tv": "https://vidsrc.mov/embed/tv/{id}/{s}/{e}",
       "pproxy": true
