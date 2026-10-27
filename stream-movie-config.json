@@ -151,6 +151,30 @@
       "nosandbox": false,
       "movie": "https://allflix.org/watch/movie/{id}",
       "tv": "https://allflix.org/watch/tv/{id}/{s}/{e}"
+    },
+    {
+      "key": "smvqxpger",
+      "name": "Server 16",
+      "on": true,
+      "nosandbox": false,
+      "movie": "https://flaxjoy.app/watch/{id}",
+      "tv": "https://flaxjoy.app/watch/{id}/{s}/{e}"
+    },
+    {
+      "key": "smvqxpgtn",
+      "name": "Server 17",
+      "on": true,
+      "nosandbox": false,
+      "movie": "https://zxcstream.com/watch/movie/{id}",
+      "tv": "https://zxcstream.com/details/tv/{id}/{s}/{e}"
+    },
+    {
+      "key": "smvqxph71",
+      "name": "Server 18",
+      "on": true,
+      "nosandbox": false,
+      "movie": "https://moviepal.live/movie/watch/{id}",
+      "tv": "https://moviepal.live/tv/watch/{id}?season={s}&episode={e}"
     }
   ],
   "about": {
