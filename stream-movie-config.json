@@ -21,6 +21,8 @@
   },
   "tmdbToken": "",
   "tmdbProxy": "https://tmdb-proxy.streamcenter207.workers.dev",
+  "premiumServers": [],
+  "premiumSeesNormal": false,
   "tmdbLang": "en-US",
   "servers": [
     {
