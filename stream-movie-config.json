@@ -23,6 +23,9 @@
   "tmdbProxy": "https://tmdb-proxy.streamcenter207.workers.dev",
   "premiumServers": [],
   "premiumSeesNormal": false,
+  "playerGuard": {
+    "on": true
+  },
   "tmdbLang": "en-US",
   "servers": [
     {
@@ -270,6 +273,13 @@
     },
     "focus": {
       "on": true
+    },
+    "player": {
+      "adblock": true,
+      "nopopup": true,
+      "noredirect": true,
+      "screenguard": true,
+      "resume": true
     }
   },
   "premiumInfo": {
@@ -303,6 +313,15 @@
   "earn": {
     "on": true,
     "units": {
+      "preroll": {
+        "on": true,
+        "secs": 5
+      },
+      "linkbtn": {
+        "on": true,
+        "where": "floating",
+        "label": "Support us"
+      },
       "popunder": {
         "on": true
       },
@@ -339,11 +358,6 @@
       "b160x600": {
         "on": true,
         "where": "right_rail"
-      },
-      "linkbtn": {
-        "on": true,
-        "where": "floating",
-        "label": "Support us"
       }
     }
   }
