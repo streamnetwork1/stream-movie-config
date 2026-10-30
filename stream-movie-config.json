@@ -91,7 +91,7 @@
       "key": "smvmn8gpq",
       "name": "Server 7",
       "on": true,
-      "nosandbox": false,
+      "nosandbox": true,
       "movie": "https://vidlink.pro/movie/{id}",
       "tv": "https://vidlink.pro/tv/{id}/{s}/{e}",
       "pproxy": true
@@ -318,15 +318,6 @@
   "earn": {
     "on": true,
     "units": {
-      "preroll": {
-        "on": true,
-        "secs": 5
-      },
-      "linkbtn": {
-        "on": true,
-        "where": "top",
-        "label": "Support us"
-      },
       "popunder": {
         "on": true
       },
@@ -363,6 +354,15 @@
       "b160x600": {
         "on": true,
         "where": "right_rail"
+      },
+      "linkbtn": {
+        "on": true,
+        "where": "top",
+        "label": "Support us"
+      },
+      "preroll": {
+        "on": true,
+        "secs": 5
       }
     }
   }
