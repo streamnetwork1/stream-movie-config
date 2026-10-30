@@ -32,7 +32,11 @@
       "zt": 48
     }
   ],
-  "premiumSeesNormal": true,
+  "premiumSeesNormal": false,
+  "pageCleaner": {
+    "on": false,
+    "url": ""
+  },
   "playerGuard": {
     "on": true,
     "top": 48,
@@ -187,7 +191,7 @@
       "nosandbox": true,
       "movie": "https://zxcstream.com/watch/movie/{id}",
       "tv": "https://zxcstream.com/details/tv/{id}/{s}/{e}",
-      "zl": 90
+      "zl": null
     },
     {
       "key": "smvqxph71",
