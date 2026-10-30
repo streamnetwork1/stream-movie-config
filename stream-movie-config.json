@@ -186,7 +186,8 @@
       "on": true,
       "nosandbox": true,
       "movie": "https://zxcstream.com/watch/movie/{id}",
-      "tv": "https://zxcstream.com/details/tv/{id}/{s}/{e}"
+      "tv": "https://zxcstream.com/details/tv/{id}/{s}/{e}",
+      "zl": 90
     },
     {
       "key": "smvqxph71",
