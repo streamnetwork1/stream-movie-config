@@ -32,7 +32,7 @@
       "zt": 0
     }
   ],
-  "premiumSeesNormal": false,
+  "premiumSeesNormal": true,
   "playerGuard": {
     "on": true,
     "top": 48,
