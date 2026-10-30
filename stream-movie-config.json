@@ -161,8 +161,8 @@
       "name": "Server 14",
       "on": true,
       "nosandbox": false,
-      "movie": "https://framextv.cc/watch/{id}",
-      "tv": "https://framextv.cc/watch/{id}/{s}/{e}"
+      "movie": "https://framextv.xyz/embed/{id}",
+      "tv": "https://framextv.xyz/embed/{id}/{s}/{e}"
     },
     {
       "key": "smvqxmd1o",
