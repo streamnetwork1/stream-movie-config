@@ -319,7 +319,7 @@
       },
       "linkbtn": {
         "on": true,
-        "where": "floating",
+        "where": "top",
         "label": "Support us"
       },
       "popunder": {
