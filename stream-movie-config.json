@@ -29,7 +29,7 @@
       "nosandbox": false,
       "movie": "https://moviepal.live/movie/watch/{id}",
       "tv": "https://moviepal.live/tv/watch/{id}?season={s}&episode={e}",
-      "zt": 0
+      "zt": 48
     }
   ],
   "premiumSeesNormal": true,
