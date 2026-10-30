@@ -21,7 +21,17 @@
   },
   "tmdbToken": "",
   "tmdbProxy": "https://tmdb-proxy.streamcenter207.workers.dev",
-  "premiumServers": [],
+  "premiumServers": [
+    {
+      "key": "pmvute3j5",
+      "name": "Premium 1",
+      "on": true,
+      "nosandbox": false,
+      "movie": "https://moviepal.live/movie/watch/{id}",
+      "tv": "https://moviepal.live/tv/watch/{id}?season={s}&episode={e}",
+      "zt": 0
+    }
+  ],
   "premiumSeesNormal": false,
   "playerGuard": {
     "on": true,
