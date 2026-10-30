@@ -39,7 +39,7 @@
     "bottom": 0,
     "left": 0,
     "right": 0,
-    "black": false
+    "black": true
   },
   "tmdbLang": "en-US",
   "servers": [
