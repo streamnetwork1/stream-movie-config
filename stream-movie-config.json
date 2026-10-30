@@ -21,16 +21,6 @@
   },
   "tmdbToken": "",
   "tmdbProxy": "https://tmdb-proxy.streamcenter207.workers.dev",
-  "premiumServers": [],
-  "premiumSeesNormal": false,
-  "playerGuard": {
-    "on": true,
-    "top": 48,
-    "bottom": 0,
-    "left": 0,
-    "right": 0,
-    "black": false
-  },
   "tmdbLang": "en-US",
   "servers": [
     {
@@ -84,7 +74,7 @@
       "on": true,
       "nosandbox": true,
       "movie": "https://www.2embed.cc/embed/{id}",
-      "tv": "https://www.2embed.cc/embedtv/{id}?s={s}&e={e}",
+      "tv": "https://www.2embed.cc/embedtv/{id}&s={s}&e={e}",
       "pproxy": true
     },
     {
@@ -359,11 +349,17 @@
         "on": true,
         "where": "top",
         "label": "Support us"
-      },
-      "preroll": {
-        "on": true,
-        "secs": 5
       }
     }
+  },
+  "premiumServers": [],
+  "premiumSeesNormal": false,
+  "playerGuard": {
+    "on": true,
+    "top": 48,
+    "bottom": 0,
+    "left": 0,
+    "right": 0,
+    "black": false
   }
 }
