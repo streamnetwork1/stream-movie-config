@@ -29,8 +29,8 @@
       "nosandbox": false,
       "movie": "https://moviepal.live/movie/watch/{id}",
       "tv": "https://moviepal.live/tv/watch/{id}?season={s}&episode={e}",
-      "zt": 48,
-      "pclean": true,
+      "zt": null,
+      "pclean": false,
       "ciso": ""
     }
   ],
@@ -65,25 +65,25 @@
       "nosandbox": false,
       "movie": "https://vidcore.org/embed/movie/{id}",
       "tv": "https://vidcore.org/embed/tv/{id}/{s}/{e}",
-      "pproxy": true
+      "pproxy": false
     },
     {
       "key": "smvm89xz6",
       "name": "Server 3",
       "on": true,
-      "nosandbox": true,
+      "nosandbox": false,
       "movie": "https://vidsrc.mov/embed/movie/{id}",
       "tv": "https://vidsrc.mov/embed/tv/{id}/{s}/{e}",
-      "pproxy": true
+      "pproxy": false
     },
     {
       "key": "smvm8fjns",
       "name": "Server 4",
       "on": true,
-      "nosandbox": true,
+      "nosandbox": false,
       "movie": "https://vidsrc.sh/embed/movie/{id}",
       "tv": "https://vidsrc.sh/embed/tv/{id}/{s}/{e}",
-      "pproxy": true
+      "pproxy": false
     },
     {
       "key": "smvm8jnjq",
@@ -98,19 +98,19 @@
       "key": "smvm8n4nb",
       "name": "Server 6",
       "on": true,
-      "nosandbox": true,
+      "nosandbox": false,
       "movie": "https://www.2embed.cc/embed/{id}",
       "tv": "https://www.2embed.cc/embedtv/{id}&s={s}&e={e}",
-      "pproxy": true
+      "pproxy": false
     },
     {
       "key": "smvmn8gpq",
       "name": "Server 7",
       "on": true,
-      "nosandbox": true,
+      "nosandbox": false,
       "movie": "https://vidlink.pro/movie/{id}",
       "tv": "https://vidlink.pro/tv/{id}/{s}/{e}",
-      "pproxy": true
+      "pproxy": false
     },
     {
       "key": "smvmna67z",
@@ -119,22 +119,22 @@
       "nosandbox": false,
       "movie": "https://embedwave.cc/embed/movie/{id}",
       "tv": "https://embedwave.cc/embed/tv/{id}/{s}/{e}",
-      "pproxy": true
+      "pproxy": false
     },
     {
       "key": "smvmna9j9",
       "name": "Server 9",
       "on": true,
-      "nosandbox": true,
+      "nosandbox": false,
       "movie": "https://vidsrc.to/embed/movie/{id}",
       "tv": "https://vidsrc.to/embed/tv/{id}/{s}/{e}",
-      "pproxy": true
+      "pproxy": false
     },
     {
       "key": "smvqadnyy",
       "name": "Server 10",
       "on": true,
-      "nosandbox": true,
+      "nosandbox": false,
       "movie": "https://player.vidlove.cc/embed/movie/{id}",
       "tv": "https://player.vidlove.cc/embed/tv/{id}/{s}/{e}"
     },
@@ -145,8 +145,8 @@
       "nosandbox": false,
       "movie": "https://nexa.mov/watch/tmdb-movie/{id}",
       "tv": "https://nexa.mov/watch/tmdb-tv/{id}/s{s}-e{e}",
-      "pclean": true,
-      "ciso": "1"
+      "pclean": false,
+      "ciso": ""
     },
     {
       "key": "smvqkprjt",
@@ -176,7 +176,7 @@
       "key": "smvqxmd1o",
       "name": "Server 15",
       "on": true,
-      "nosandbox": true,
+      "nosandbox": false,
       "movie": "https://allflix.org/watch/movie/{id}",
       "tv": "https://allflix.org/watch/tv/{id}/{s}/{e}"
     },
@@ -192,12 +192,12 @@
       "key": "smvqxpgtn",
       "name": "Server 17",
       "on": true,
-      "nosandbox": true,
+      "nosandbox": false,
       "movie": "https://zxcstream.com/watch/movie/{id}",
       "tv": "https://zxcstream.com/details/tv/{id}/{s}/{e}",
       "zl": null,
-      "pclean": true,
-      "ciso": "1"
+      "pclean": false,
+      "ciso": ""
     },
     {
       "key": "smvqxph71",
@@ -206,7 +206,7 @@
       "nosandbox": false,
       "movie": "https://moviepal.live/movie/watch/{id}",
       "tv": "https://moviepal.live/tv/watch/{id}?season={s}&episode={e}",
-      "pclean": true,
+      "pclean": false,
       "ciso": ""
     }
   ],
