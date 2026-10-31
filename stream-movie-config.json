@@ -9,7 +9,7 @@
   "intro": true,
   "introSub": "Live · Music · Video · Cinema",
   "registrationOpen": true,
-  "maintenance": true,
+  "maintenance": false,
   "maintenanceMsg": "We will be back soon.",
   "announcementOn": false,
   "announcement": "",
@@ -25,7 +25,9 @@
   "premiumSeesNormal": false,
   "pageCleaner": {
     "on": false,
-    "url": "https://page-cleaner.streamcenter207.workers.dev/?url={url}"
+    "url": "https://page-cleaner.streamcenter207.workers.dev/?url={url}",
+    "isolate": true,
+    "hide": ""
   },
   "playerGuard": {
     "on": true,
