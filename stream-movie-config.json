@@ -9,7 +9,7 @@
   "intro": true,
   "introSub": "Live · Music · Video · Cinema",
   "registrationOpen": true,
-  "maintenance": false,
+  "maintenance": true,
   "maintenanceMsg": "We will be back soon.",
   "announcementOn": false,
   "announcement": "",
