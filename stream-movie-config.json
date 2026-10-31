@@ -29,6 +29,14 @@
       "nosandbox": false,
       "movie": "https://cinesrc.st/embed/movie/{id}",
       "tv": "https://cinesrc.st/embed/tv/{id}?s={s}&e={e}"
+    },
+    {
+      "key": "pmvwp62n7",
+      "name": "Premium 2",
+      "on": true,
+      "nosandbox": false,
+      "movie": "https://allflix.org/watch/movie/{id}",
+      "tv": "https://allflix.org/watch/tv/{id}/{s}/{e}"
     }
   ],
   "premiumSeesNormal": false,
