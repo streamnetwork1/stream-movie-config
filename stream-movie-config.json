@@ -24,7 +24,7 @@
   "premiumServers": [],
   "premiumSeesNormal": false,
   "pageCleaner": {
-    "on": false,
+    "on": true,
     "url": "https://page-cleaner.streamcenter207.workers.dev/?url={url}",
     "isolate": true,
     "hide": ""
@@ -38,7 +38,48 @@
     "black": false
   },
   "tmdbLang": "en-US",
-  "servers": [],
+  "servers": [
+    {
+      "key": "cinesrc",
+      "name": "Server 1",
+      "on": true,
+      "nosandbox": false,
+      "movie": "https://cinesrc.st/embed/movie/{id}",
+      "tv": "https://cinesrc.st/embed/tv/{id}?s={s}&e={e}"
+    },
+    {
+      "key": "vidcore",
+      "name": "Server 2",
+      "on": true,
+      "nosandbox": false,
+      "movie": "https://vidcore.org/embed/movie/{id}",
+      "tv": "https://vidcore.org/embed/tv/{id}/{s}/{e}"
+    },
+    {
+      "key": "vidsrc",
+      "name": "Server 3",
+      "on": true,
+      "nosandbox": false,
+      "movie": "https://vidsrc.sbs/embed/movie/{id}",
+      "tv": "https://vidsrc.sbs/embed/tv/{id}/{s}/{e}"
+    },
+    {
+      "key": "vidking",
+      "name": "Server 4",
+      "on": true,
+      "nosandbox": true,
+      "movie": "https://www.vidking.net/embed/movie/{id}",
+      "tv": "https://www.vidking.net/embed/tv/{id}/{s}/{e}?color=e50914&autoPlay=true&nextEpisode=true&episodeSelector=true"
+    },
+    {
+      "key": "vidsrcRaw",
+      "name": "Server 5",
+      "on": true,
+      "nosandbox": true,
+      "movie": "https://vidsrc.sbs/embed/movie/{id}",
+      "tv": "https://vidsrc.sbs/embed/tv/{id}/{s}/{e}"
+    }
+  ],
   "about": {
     "name": "STREAM",
     "role": "Cinema · Movies · TV",
