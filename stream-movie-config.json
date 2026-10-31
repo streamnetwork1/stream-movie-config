@@ -31,7 +31,7 @@
       "tv": "https://moviepal.live/tv/watch/{id}?season={s}&episode={e}",
       "zt": 48,
       "pclean": true,
-      "ciso": "1"
+      "ciso": ""
     }
   ],
   "premiumSeesNormal": false,
@@ -206,7 +206,7 @@
       "movie": "https://moviepal.live/movie/watch/{id}",
       "tv": "https://moviepal.live/tv/watch/{id}?season={s}&episode={e}",
       "pclean": true,
-      "ciso": "1"
+      "ciso": ""
     }
   ],
   "about": {
