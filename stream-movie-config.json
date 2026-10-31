@@ -68,7 +68,7 @@
     ]
   },
   "chat": {
-    "enabled": true
+    "enabled": false
   },
   "protect": {
     "enabled": true,
