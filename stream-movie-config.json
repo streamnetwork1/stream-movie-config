@@ -43,7 +43,7 @@
   ],
   "premiumSeesNormal": false,
   "pageCleaner": {
-    "on": true,
+    "on": false,
     "url": "https://page-cleaner.streamcenter207.workers.dev/?url={url}",
     "isolate": true,
     "hide": ""
