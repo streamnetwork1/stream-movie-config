@@ -29,13 +29,15 @@
       "nosandbox": false,
       "movie": "https://moviepal.live/movie/watch/{id}",
       "tv": "https://moviepal.live/tv/watch/{id}?season={s}&episode={e}",
-      "zt": 48
+      "zt": 48,
+      "pclean": true,
+      "ciso": "1"
     }
   ],
   "premiumSeesNormal": false,
   "pageCleaner": {
-    "on": false,
-    "url": ""
+    "on": true,
+    "url": "https://page-cleaner.streamcenter207.workers.dev/?url={url}"
   },
   "playerGuard": {
     "on": true,
@@ -142,7 +144,8 @@
       "on": true,
       "nosandbox": false,
       "movie": "https://nexa.mov/watch/tmdb-movie/{id}",
-      "tv": "https://nexa.mov/watch/tmdb-tv/{id}/s{s}-e{e}"
+      "tv": "https://nexa.mov/watch/tmdb-tv/{id}/s{s}-e{e}",
+      "pclean": true
     },
     {
       "key": "smvqkprjt",
@@ -191,7 +194,9 @@
       "nosandbox": true,
       "movie": "https://zxcstream.com/watch/movie/{id}",
       "tv": "https://zxcstream.com/details/tv/{id}/{s}/{e}",
-      "zl": null
+      "zl": null,
+      "pclean": true,
+      "ciso": "1"
     },
     {
       "key": "smvqxph71",
@@ -199,7 +204,9 @@
       "on": true,
       "nosandbox": false,
       "movie": "https://moviepal.live/movie/watch/{id}",
-      "tv": "https://moviepal.live/tv/watch/{id}?season={s}&episode={e}"
+      "tv": "https://moviepal.live/tv/watch/{id}?season={s}&episode={e}",
+      "pclean": true,
+      "ciso": "1"
     }
   ],
   "about": {
