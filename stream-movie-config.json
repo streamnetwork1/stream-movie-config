@@ -26,9 +26,10 @@
       "key": "pmvwohnz8",
       "name": "Premium 1",
       "on": true,
-      "nosandbox": false,
+      "nosandbox": true,
       "movie": "https://cinesrc.st/embed/movie/{id}",
-      "tv": "https://cinesrc.st/embed/tv/{id}?s={s}&e={e}"
+      "tv": "https://cinesrc.st/embed/tv/{id}?s={s}&e={e}",
+      "pskip": true
     },
     {
       "key": "pmvwp62n7",
@@ -36,7 +37,8 @@
       "on": true,
       "nosandbox": false,
       "movie": "https://allflix.org/watch/movie/{id}",
-      "tv": "https://allflix.org/watch/tv/{id}/{s}/{e}"
+      "tv": "https://allflix.org/watch/tv/{id}/{s}/{e}",
+      "pskip": true
     }
   ],
   "premiumSeesNormal": false,
