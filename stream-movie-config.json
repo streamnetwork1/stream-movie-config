@@ -145,7 +145,8 @@
       "nosandbox": false,
       "movie": "https://nexa.mov/watch/tmdb-movie/{id}",
       "tv": "https://nexa.mov/watch/tmdb-tv/{id}/s{s}-e{e}",
-      "pclean": true
+      "pclean": true,
+      "ciso": "1"
     },
     {
       "key": "smvqkprjt",
