@@ -21,26 +21,7 @@
   },
   "tmdbToken": "",
   "tmdbProxy": "https://tmdb-proxy.streamcenter207.workers.dev",
-  "premiumServers": [
-    {
-      "key": "pmvwohnz8",
-      "name": "Premium 1",
-      "on": true,
-      "nosandbox": true,
-      "movie": "https://cinesrc.st/embed/movie/{id}",
-      "tv": "https://cinesrc.st/embed/tv/{id}?s={s}&e={e}",
-      "pskip": true
-    },
-    {
-      "key": "pmvwp62n7",
-      "name": "Premium 2",
-      "on": true,
-      "nosandbox": false,
-      "movie": "https://allflix.org/watch/movie/{id}",
-      "tv": "https://allflix.org/watch/tv/{id}/{s}/{e}",
-      "pskip": true
-    }
-  ],
+  "premiumServers": [],
   "premiumSeesNormal": false,
   "pageCleaner": {
     "on": false,
@@ -57,48 +38,7 @@
     "black": false
   },
   "tmdbLang": "en-US",
-  "servers": [
-    {
-      "key": "cinesrc",
-      "name": "Server 1",
-      "on": true,
-      "nosandbox": false,
-      "movie": "https://cinesrc.st/embed/movie/{id}",
-      "tv": "https://cinesrc.st/embed/tv/{id}?s={s}&e={e}"
-    },
-    {
-      "key": "vidcore",
-      "name": "Server 2",
-      "on": true,
-      "nosandbox": false,
-      "movie": "https://vidcore.org/embed/movie/{id}",
-      "tv": "https://vidcore.org/embed/tv/{id}/{s}/{e}"
-    },
-    {
-      "key": "vidsrc",
-      "name": "Server 3",
-      "on": true,
-      "nosandbox": false,
-      "movie": "https://vidsrc.sbs/embed/movie/{id}",
-      "tv": "https://vidsrc.sbs/embed/tv/{id}/{s}/{e}"
-    },
-    {
-      "key": "vidking",
-      "name": "Server 4",
-      "on": true,
-      "nosandbox": true,
-      "movie": "https://www.vidking.net/embed/movie/{id}",
-      "tv": "https://www.vidking.net/embed/tv/{id}/{s}/{e}?color=e50914&autoPlay=true&nextEpisode=true&episodeSelector=true"
-    },
-    {
-      "key": "vidsrcRaw",
-      "name": "Server 5",
-      "on": true,
-      "nosandbox": true,
-      "movie": "https://vidsrc.sbs/embed/movie/{id}",
-      "tv": "https://vidsrc.sbs/embed/tv/{id}/{s}/{e}"
-    }
-  ],
+  "servers": [],
   "about": {
     "name": "STREAM",
     "role": "Cinema · Movies · TV",
