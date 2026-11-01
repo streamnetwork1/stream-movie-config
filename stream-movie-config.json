@@ -55,7 +55,7 @@
       "key": "pmvxzcunk",
       "name": "Premium 4",
       "on": true,
-      "nosandbox": false,
+      "nosandbox": true,
       "movie": "https://framextv.xyz/embed/{id}",
       "tv": "https://framextv.xyz/embed/{id}/{s}/{e}",
       "pskip": true
@@ -82,7 +82,7 @@
       "key": "smvy0nzcn",
       "name": "Server 1",
       "on": true,
-      "nosandbox": false,
+      "nosandbox": true,
       "movie": "https://allflix.org/watch/movie/{id}",
       "tv": "https://allflix.org/watch/tv/{id}/{s}/{e}",
       "pskip": true,
