@@ -38,7 +38,8 @@
       "nosandbox": false,
       "movie": "https://nexa.mov/watch/tmdb-movie/{id}",
       "tv": "https://nexa.mov/watch/tmdb-tv/{id}/s{s}-e{e}",
-      "pskip": false
+      "pskip": false,
+      "zl": 48
     }
   ],
   "premiumSeesNormal": false,
