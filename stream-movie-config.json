@@ -23,12 +23,12 @@
   "tmdbProxy": "https://tmdb-proxy.streamcenter207.workers.dev",
   "premiumServers": [
     {
-      "key": "pmvxwnk6r",
+      "key": "pmvxyxbqt",
       "name": "Premium 1",
       "on": true,
       "nosandbox": false,
-      "movie": "https://primesrc.me/embed/movie?tmdb={id}",
-      "tv": "https://primesrc.me/embed/tv?tmdb={id}&season={s}&episode={e}",
+      "movie": "https://cinebros.net/watch/movie/{id}",
+      "tv": "https://cinebros.net/watch/tv/{id}?s={s}&e={e}",
       "pskip": false
     },
     {
@@ -38,7 +38,7 @@
       "nosandbox": false,
       "movie": "https://nexa.mov/watch/tmdb-movie/{id}",
       "tv": "https://nexa.mov/watch/tmdb-tv/{id}/s{s}-e{e}",
-      "pskip": false,
+      "pskip": true,
       "zl": 100
     },
     {
@@ -48,14 +48,15 @@
       "nosandbox": false,
       "movie": "https://cinevu.icu/player.html?type=movie&id={id}",
       "tv": "https://cinevu.icu/player.html?type=tv&id={id}&season={s}&episode={e}",
-      "zl": 48
+      "zl": 48,
+      "pskip": true
     }
   ],
   "premiumSeesNormal": false,
   "pageCleaner": {
-    "on": false,
+    "on": true,
     "url": "https://page-cleaner.streamcenter207.workers.dev/?url={url}",
-    "isolate": false,
+    "isolate": true,
     "hide": ""
   },
   "playerGuard": {
