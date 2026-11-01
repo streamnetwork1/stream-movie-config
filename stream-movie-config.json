@@ -77,7 +77,16 @@
     "black": false
   },
   "tmdbLang": "en-US",
-  "servers": [],
+  "servers": [
+    {
+      "key": "smvy0nzcn",
+      "name": "Server 1",
+      "on": true,
+      "nosandbox": false,
+      "movie": "https://allflix.org/watch/movie/{id}",
+      "tv": "https://allflix.org/watch/tv/{id}/{s}/{e}"
+    }
+  ],
   "about": {
     "name": "STREAM",
     "role": "Cinema · Movies · TV",
