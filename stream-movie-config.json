@@ -28,7 +28,8 @@
       "on": true,
       "nosandbox": false,
       "movie": "https://primesrc.me/embed/movie?tmdb={id}",
-      "tv": "https://primesrc.me/embed/tv?tmdb={id}&season={s}&episode={e}"
+      "tv": "https://primesrc.me/embed/tv?tmdb={id}&season={s}&episode={e}",
+      "pskip": true
     },
     {
       "key": "pmvxy3jfb",
@@ -36,14 +37,15 @@
       "on": true,
       "nosandbox": false,
       "movie": "https://nexa.mov/watch/tmdb-movie/{id}",
-      "tv": "https://nexa.mov/watch/tmdb-tv/{id}/s{s}-e{e}"
+      "tv": "https://nexa.mov/watch/tmdb-tv/{id}/s{s}-e{e}",
+      "pskip": false
     }
   ],
   "premiumSeesNormal": false,
   "pageCleaner": {
-    "on": false,
+    "on": true,
     "url": "https://page-cleaner.streamcenter207.workers.dev/?url={url}",
-    "isolate": false,
+    "isolate": true,
     "hide": ""
   },
   "playerGuard": {
