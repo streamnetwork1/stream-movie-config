@@ -21,7 +21,16 @@
   },
   "tmdbToken": "",
   "tmdbProxy": "https://tmdb-proxy.streamcenter207.workers.dev",
-  "premiumServers": [],
+  "premiumServers": [
+    {
+      "key": "pmvxwnk6r",
+      "name": "Premium 1",
+      "on": true,
+      "nosandbox": false,
+      "movie": "https://primesrc.me/embed/movie?tmdb={id}",
+      "tv": "https://primesrc.me/embed/tv?tmdb={id}&season={s}&episode={e}"
+    }
+  ],
   "premiumSeesNormal": false,
   "pageCleaner": {
     "on": true,
