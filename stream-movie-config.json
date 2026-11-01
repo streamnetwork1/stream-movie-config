@@ -29,6 +29,14 @@
       "nosandbox": false,
       "movie": "https://primesrc.me/embed/movie?tmdb={id}",
       "tv": "https://primesrc.me/embed/tv?tmdb={id}&season={s}&episode={e}"
+    },
+    {
+      "key": "pmvxy3jfb",
+      "name": "Premium 2",
+      "on": true,
+      "nosandbox": false,
+      "movie": "https://nexa.mov/watch/tmdb-movie/{id}",
+      "tv": "https://nexa.mov/watch/tmdb-tv/{id}/s{s}-e{e}"
     }
   ],
   "premiumSeesNormal": false,
