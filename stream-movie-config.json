@@ -53,18 +53,8 @@
       "pskip": true
     },
     {
-      "key": "pmvxzcunk",
-      "name": "Premium 4",
-      "on": true,
-      "nosandbox": true,
-      "movie": "https://framextv.xyz/embed/{id}",
-      "tv": "https://framextv.xyz/embed/{id}/{s}/{e}",
-      "pskip": true,
-      "pproxy": true
-    },
-    {
       "key": "pmvy0rus0",
-      "name": "Premium 5",
+      "name": "Premium 4",
       "on": true,
       "nosandbox": false,
       "movie": "https://fprime.at/watch/movie/{id}",
@@ -95,8 +85,8 @@
       "name": "Server 1",
       "on": true,
       "nosandbox": true,
-      "movie": "https://allflix.org/watch/movie/{id}",
-      "tv": "https://allflix.org/watch/tv/{id}/{s}/{e}",
+      "movie": "https://framextv.xyz/embed/{id}",
+      "tv": "https://framextv.xyz/embed/{id}/{s}/{e}",
       "pskip": true,
       "zl": null,
       "zr": null
