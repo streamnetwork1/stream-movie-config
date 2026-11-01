@@ -24,7 +24,7 @@
   "premiumServers": [],
   "premiumSeesNormal": false,
   "pageCleaner": {
-    "on": false,
+    "on": true,
     "url": "https://page-cleaner.streamcenter207.workers.dev/?url={url}",
     "isolate": false,
     "hide": ""
@@ -38,7 +38,17 @@
     "black": false
   },
   "tmdbLang": "en-US",
-  "servers": [],
+  "servers": [
+    {
+      "key": "smvxwlb0s",
+      "name": "Server 1",
+      "on": true,
+      "nosandbox": false,
+      "movie": "https://primesrc.me/embed/movie?tmdb={id}",
+      "tv": "https://primesrc.me/embed/tv?tmdb={id}&season={s}&episode={e}",
+      "pskip": true
+    }
+  ],
   "about": {
     "name": "STREAM",
     "role": "Cinema · Movies · TV",
