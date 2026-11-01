@@ -52,7 +52,7 @@
       "key": "smvxwlb0s",
       "name": "Server 1",
       "on": true,
-      "nosandbox": false,
+      "nosandbox": true,
       "movie": "https://primesrc.me/embed/movie?tmdb={id}",
       "tv": "https://primesrc.me/embed/tv?tmdb={id}&season={s}&episode={e}",
       "pskip": true
