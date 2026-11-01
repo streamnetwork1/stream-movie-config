@@ -84,7 +84,10 @@
       "on": true,
       "nosandbox": false,
       "movie": "https://allflix.org/watch/movie/{id}",
-      "tv": "https://allflix.org/watch/tv/{id}/{s}/{e}"
+      "tv": "https://allflix.org/watch/tv/{id}/{s}/{e}",
+      "pskip": true,
+      "zl": 48,
+      "zr": 48
     }
   ],
   "about": {
