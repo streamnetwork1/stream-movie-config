@@ -67,7 +67,8 @@
       "nosandbox": false,
       "movie": "https://fprime.at/watch/movie/{id}",
       "tv": "https://fprime.at/watch/tv/{id}/{s}/{e}",
-      "zl": 100
+      "zl": 100,
+      "pskip": true
     }
   ],
   "premiumSeesNormal": false,
