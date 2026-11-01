@@ -57,7 +57,8 @@
       "on": true,
       "nosandbox": false,
       "movie": "https://framextv.xyz/embed/{id}",
-      "tv": "https://framextv.xyz/embed/{id}/{s}/{e}"
+      "tv": "https://framextv.xyz/embed/{id}/{s}/{e}",
+      "pskip": true
     }
   ],
   "premiumSeesNormal": false,
