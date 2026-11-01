@@ -59,6 +59,15 @@
       "movie": "https://framextv.xyz/embed/{id}",
       "tv": "https://framextv.xyz/embed/{id}/{s}/{e}",
       "pskip": true
+    },
+    {
+      "key": "pmvy0rus0",
+      "name": "Premium 5",
+      "on": true,
+      "nosandbox": false,
+      "movie": "https://fprime.at/watch/movie/{id}",
+      "tv": "https://fprime.at/watch/tv/{id}/{s}/{e}",
+      "zl": 100
     }
   ],
   "premiumSeesNormal": false,
