@@ -30,7 +30,7 @@
       "movie": "https://cinebros.net/watch/movie/{id}",
       "tv": "https://cinebros.net/watch/tv/{id}?s={s}&e={e}",
       "pskip": false,
-      "pclean": true
+      "pclean": false
     },
     {
       "key": "pmvxy3jfb",
@@ -42,7 +42,7 @@
       "pskip": false,
       "zl": 100,
       "zt": 48,
-      "pclean": true
+      "pclean": false
     },
     {
       "key": "pmvxyhg2y",
@@ -52,7 +52,8 @@
       "movie": "https://cinevu.icu/player.html?type=movie&id={id}",
       "tv": "https://cinevu.icu/player.html?type=tv&id={id}&season={s}&episode={e}",
       "zl": 48,
-      "pskip": true
+      "pskip": true,
+      "pclean": true
     },
     {
       "key": "pmvy0rus0",
@@ -62,7 +63,8 @@
       "movie": "https://fprime.at/watch/movie/{id}",
       "tv": "https://fprime.at/watch/tv/{id}/{s}/{e}",
       "zl": 100,
-      "pskip": true
+      "pskip": true,
+      "pclean": true
     }
   ],
   "premiumSeesNormal": false,
