@@ -58,7 +58,8 @@
       "nosandbox": true,
       "movie": "https://framextv.xyz/embed/{id}",
       "tv": "https://framextv.xyz/embed/{id}/{s}/{e}",
-      "pskip": true
+      "pskip": true,
+      "pproxy": true
     },
     {
       "key": "pmvy0rus0",
