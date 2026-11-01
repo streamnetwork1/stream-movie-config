@@ -39,7 +39,8 @@
       "movie": "https://nexa.mov/watch/tmdb-movie/{id}",
       "tv": "https://nexa.mov/watch/tmdb-tv/{id}/s{s}-e{e}",
       "pskip": true,
-      "zl": 100
+      "zl": 100,
+      "zt": 48
     },
     {
       "key": "pmvxyhg2y",
