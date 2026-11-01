@@ -29,7 +29,8 @@
       "nosandbox": false,
       "movie": "https://cinebros.net/watch/movie/{id}",
       "tv": "https://cinebros.net/watch/tv/{id}?s={s}&e={e}",
-      "pskip": false
+      "pskip": false,
+      "pclean": true
     },
     {
       "key": "pmvxy3jfb",
@@ -40,7 +41,8 @@
       "tv": "https://nexa.mov/watch/tmdb-tv/{id}/s{s}-e{e}",
       "pskip": false,
       "zl": 100,
-      "zt": 48
+      "zt": 48,
+      "pclean": true
     },
     {
       "key": "pmvxyhg2y",
@@ -66,9 +68,7 @@
   "premiumSeesNormal": false,
   "pageCleaner": {
     "on": true,
-    "url": "https://page-cleaner1.streamcenter207.workers.dev/?url={url}",
-    "isolate": true,
-    "hide": ""
+    "url": "https://page-cleaner1.streamcenter207.workers.dev/?url={url}"
   },
   "playerGuard": {
     "on": true,
