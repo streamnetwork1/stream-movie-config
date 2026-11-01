@@ -50,6 +50,14 @@
       "tv": "https://cinevu.icu/player.html?type=tv&id={id}&season={s}&episode={e}",
       "zl": 48,
       "pskip": true
+    },
+    {
+      "key": "pmvxzcunk",
+      "name": "Premium 4",
+      "on": true,
+      "nosandbox": false,
+      "movie": "https://framextv.xyz/embed/{id}",
+      "tv": "https://framextv.xyz/embed/{id}/{s}/{e}"
     }
   ],
   "premiumSeesNormal": false,
