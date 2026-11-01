@@ -29,7 +29,7 @@
       "nosandbox": false,
       "movie": "https://primesrc.me/embed/movie?tmdb={id}",
       "tv": "https://primesrc.me/embed/tv?tmdb={id}&season={s}&episode={e}",
-      "pskip": true
+      "pskip": false
     },
     {
       "key": "pmvxy3jfb",
@@ -44,9 +44,9 @@
   ],
   "premiumSeesNormal": false,
   "pageCleaner": {
-    "on": true,
+    "on": false,
     "url": "https://page-cleaner.streamcenter207.workers.dev/?url={url}",
-    "isolate": true,
+    "isolate": false,
     "hide": ""
   },
   "playerGuard": {
