@@ -39,7 +39,15 @@
       "movie": "https://nexa.mov/watch/tmdb-movie/{id}",
       "tv": "https://nexa.mov/watch/tmdb-tv/{id}/s{s}-e{e}",
       "pskip": false,
-      "zl": 48
+      "zl": null
+    },
+    {
+      "key": "pmvxyhg2y",
+      "name": "Premium 3",
+      "on": true,
+      "nosandbox": false,
+      "movie": "https://cinevu.icu/player.html?type=movie&id={id}",
+      "tv": "https://cinevu.icu/player.html?type=tv&id={id}&season={s}&episode={e}"
     }
   ],
   "premiumSeesNormal": false,
