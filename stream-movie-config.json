@@ -41,7 +41,7 @@
       "tv": "https://nexa.mov/watch/tmdb-tv/{id}/s{s}-e{e}",
       "pskip": true,
       "zl": 100,
-      "zt": 48,
+      "zt": 100,
       "pclean": false
     },
     {
