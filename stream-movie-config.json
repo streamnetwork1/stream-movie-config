@@ -184,6 +184,14 @@
       "nosandbox": true,
       "movie": "https://vidcore.org/embed/movie/{id}",
       "tv": "https://vidcore.org/embed/tv/{id}/{s}/{e}"
+    },
+    {
+      "key": "smvzdmq84",
+      "name": "Server 7",
+      "on": true,
+      "nosandbox": false,
+      "movie": "https://vidlink.pro/movie/{id}",
+      "tv": "https://vidlink.pro/tv/{id}/{s}/{e}"
     }
   ],
   "about": {
