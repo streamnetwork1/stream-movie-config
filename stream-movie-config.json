@@ -94,9 +94,17 @@
       "key": "pmvzcmpc6",
       "name": "Premium 8",
       "on": true,
-      "nosandbox": false,
+      "nosandbox": true,
       "movie": "https://hnembed.cc/embed/movie/{id}",
       "tv": "https://hnembed.cc/embed/tv/{id}/{s}/{e}"
+    },
+    {
+      "key": "pmvzd2hax",
+      "name": "Premium 9",
+      "on": true,
+      "nosandbox": false,
+      "movie": "https://vidcore.org/embed/movie/{id}",
+      "tv": "https://vidcore.org/embed/tv/{id}/{s}/{e}"
     }
   ],
   "premiumSeesNormal": false,
@@ -158,6 +166,14 @@
       "nosandbox": true,
       "movie": "https://hnembed.cc/embed/movie/{id}",
       "tv": "https://hnembed.cc/embed/tv/{id}/{s}/{e}"
+    },
+    {
+      "key": "smvzd1bkb",
+      "name": "Server 6",
+      "on": true,
+      "nosandbox": false,
+      "movie": "https://vidcore.org/embed/movie/{id}",
+      "tv": "https://vidcore.org/embed/tv/{id}/{s}/{e}"
     }
   ],
   "about": {
