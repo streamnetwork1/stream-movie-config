@@ -112,7 +112,7 @@
       "key": "pmvzdkpqc",
       "name": "Premium 10",
       "on": true,
-      "nosandbox": false,
+      "nosandbox": true,
       "movie": "https://vidlink.pro/movie/{id}",
       "tv": "https://vidlink.pro/tv/{id}/{s}/{e}"
     }
@@ -189,7 +189,7 @@
       "key": "smvzdmq84",
       "name": "Server 7",
       "on": true,
-      "nosandbox": false,
+      "nosandbox": true,
       "movie": "https://vidlink.pro/movie/{id}",
       "tv": "https://vidlink.pro/tv/{id}/{s}/{e}"
     }
