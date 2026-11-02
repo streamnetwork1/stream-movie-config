@@ -76,7 +76,7 @@
     },
     {
       "key": "pmvzcmnpq",
-      "name": "Premium 7",
+      "name": "Premium 6",
       "on": true,
       "nosandbox": false,
       "movie": "https://www.2embed.to/embed/imdb/movie?id={id}",
@@ -84,7 +84,7 @@
     },
     {
       "key": "pmvzd2hax",
-      "name": "Premium 9",
+      "name": "Premium 7",
       "on": true,
       "nosandbox": false,
       "movie": "https://vidcore.org/embed/movie/{id}",
@@ -92,7 +92,7 @@
     },
     {
       "key": "pmvzdkpqc",
-      "name": "Premium 10",
+      "name": "Premium 8",
       "on": true,
       "nosandbox": true,
       "movie": "https://vidlink.pro/movie/{id}",
