@@ -80,7 +80,8 @@
       "on": true,
       "nosandbox": true,
       "movie": "https://vidsrc.mov/embed/movie/{id}",
-      "tv": "https://vidsrc.mov/embed/tv/{id}/{s}/{e}"
+      "tv": "https://vidsrc.mov/embed/tv/{id}/{s}/{e}",
+      "pproxy": true
     },
     {
       "key": "pmvzcmnpq",
@@ -96,7 +97,8 @@
       "on": true,
       "nosandbox": true,
       "movie": "https://hnembed.cc/embed/movie/{id}",
-      "tv": "https://hnembed.cc/embed/tv/{id}/{s}/{e}"
+      "tv": "https://hnembed.cc/embed/tv/{id}/{s}/{e}",
+      "pproxy": true
     },
     {
       "key": "pmvzd2hax",
@@ -171,7 +173,7 @@
       "key": "smvzd1bkb",
       "name": "Server 6",
       "on": true,
-      "nosandbox": false,
+      "nosandbox": true,
       "movie": "https://vidcore.org/embed/movie/{id}",
       "tv": "https://vidcore.org/embed/tv/{id}/{s}/{e}"
     }
