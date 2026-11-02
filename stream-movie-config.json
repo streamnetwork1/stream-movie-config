@@ -65,6 +65,14 @@
       "zl": 100,
       "pskip": true,
       "pclean": true
+    },
+    {
+      "key": "pmvzc88c4",
+      "name": "Premium 5",
+      "on": true,
+      "nosandbox": false,
+      "movie": "https://cinesrc.st/embed/movie/{id}",
+      "tv": "https://cinesrc.st/embed/tv/{id}?s={s}&e={e}"
     }
   ],
   "premiumSeesNormal": false,
@@ -94,6 +102,14 @@
       "pskip": true,
       "zl": null,
       "zr": null
+    },
+    {
+      "key": "smvzc73x9",
+      "name": "Server 2",
+      "on": true,
+      "nosandbox": false,
+      "movie": "https://cinesrc.st/embed/movie/{id}",
+      "tv": "https://cinesrc.st/embed/tv/{id}?s={s}&e={e}"
     }
   ],
   "about": {
