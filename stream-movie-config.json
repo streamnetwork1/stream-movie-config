@@ -114,7 +114,8 @@
       "on": true,
       "nosandbox": true,
       "movie": "https://vidlink.pro/movie/{id}",
-      "tv": "https://vidlink.pro/tv/{id}/{s}/{e}"
+      "tv": "https://vidlink.pro/tv/{id}/{s}/{e}",
+      "pproxy": true
     }
   ],
   "premiumSeesNormal": false,
