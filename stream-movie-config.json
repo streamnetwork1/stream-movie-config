@@ -107,6 +107,14 @@
       "nosandbox": false,
       "movie": "https://vidcore.org/embed/movie/{id}",
       "tv": "https://vidcore.org/embed/tv/{id}/{s}/{e}"
+    },
+    {
+      "key": "pmvzdkpqc",
+      "name": "Premium 10",
+      "on": true,
+      "nosandbox": false,
+      "movie": "https://vidlink.pro/movie/{id}",
+      "tv": "https://vidlink.pro/tv/{id}/{s}/{e}"
     }
   ],
   "premiumSeesNormal": false,
