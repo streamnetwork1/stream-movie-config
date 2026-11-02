@@ -73,6 +73,14 @@
       "nosandbox": false,
       "movie": "https://cinesrc.st/embed/movie/{id}",
       "tv": "https://cinesrc.st/embed/tv/{id}?s={s}&e={e}"
+    },
+    {
+      "key": "pmvzccq4p",
+      "name": "Premium 6",
+      "on": true,
+      "nosandbox": false,
+      "movie": "https://vidsrc.mov/embed/movie/{id}",
+      "tv": "https://vidsrc.mov/embed/tv/{id}/{s}/{e}"
     }
   ],
   "premiumSeesNormal": false,
@@ -107,9 +115,17 @@
       "key": "smvzc73x9",
       "name": "Server 2",
       "on": true,
-      "nosandbox": false,
+      "nosandbox": true,
       "movie": "https://cinesrc.st/embed/movie/{id}",
       "tv": "https://cinesrc.st/embed/tv/{id}?s={s}&e={e}"
+    },
+    {
+      "key": "smvzcctn6",
+      "name": "Server 3",
+      "on": true,
+      "nosandbox": false,
+      "movie": "https://vidsrc.mov/embed/movie/{id}",
+      "tv": "https://vidsrc.mov/embed/tv/{id}/{s}/{e}"
     }
   ],
   "about": {
