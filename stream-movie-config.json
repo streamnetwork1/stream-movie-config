@@ -78,7 +78,7 @@
       "key": "pmvzccq4p",
       "name": "Premium 6",
       "on": true,
-      "nosandbox": false,
+      "nosandbox": true,
       "movie": "https://vidsrc.mov/embed/movie/{id}",
       "tv": "https://vidsrc.mov/embed/tv/{id}/{s}/{e}"
     },
@@ -147,7 +147,7 @@
       "key": "smvzchjx4",
       "name": "Server 4",
       "on": true,
-      "nosandbox": false,
+      "nosandbox": true,
       "movie": "https://www.2embed.to/embed/imdb/movie?id={id}",
       "tv": "https://hnembed.cc/embed/tv/{id}/{s}/{e}"
     },
@@ -155,7 +155,7 @@
       "key": "smvzciktz",
       "name": "Server 5",
       "on": true,
-      "nosandbox": false,
+      "nosandbox": true,
       "movie": "https://hnembed.cc/embed/movie/{id}",
       "tv": "https://hnembed.cc/embed/tv/{id}/{s}/{e}"
     }
