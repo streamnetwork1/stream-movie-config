@@ -81,6 +81,22 @@
       "nosandbox": false,
       "movie": "https://vidsrc.mov/embed/movie/{id}",
       "tv": "https://vidsrc.mov/embed/tv/{id}/{s}/{e}"
+    },
+    {
+      "key": "pmvzcmnpq",
+      "name": "Premium 7",
+      "on": true,
+      "nosandbox": false,
+      "movie": "https://www.2embed.to/embed/imdb/movie?id={id}",
+      "tv": "https://hnembed.cc/embed/tv/{id}/{s}/{e}"
+    },
+    {
+      "key": "pmvzcmpc6",
+      "name": "Premium 8",
+      "on": true,
+      "nosandbox": false,
+      "movie": "https://hnembed.cc/embed/movie/{id}",
+      "tv": "https://hnembed.cc/embed/tv/{id}/{s}/{e}"
     }
   ],
   "premiumSeesNormal": false,
