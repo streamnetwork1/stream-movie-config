@@ -3,7 +3,7 @@
   "accent": "#ffffff",
   "bg": "#000000",
   "bg2": "#0a0a1f",
-  "useGradient": true,
+  "useGradient": false,
   "bgImage": "",
   "bgOverlay": 0.7,
   "intro": true,
