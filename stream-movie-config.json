@@ -98,6 +98,14 @@
       "movie": "https://vidlink.pro/movie/{id}",
       "tv": "https://vidlink.pro/tv/{id}/{s}/{e}",
       "pproxy": true
+    },
+    {
+      "key": "pmwrw8cmy",
+      "name": "Premium 9",
+      "on": true,
+      "nosandbox": false,
+      "movie": "https://yapgrid.com/embed/movie/{id}?autoplay=1",
+      "tv": "https://yapgrid.com/embed/tv/{id}/{s}/{e}?autoplay=1"
     }
   ],
   "premiumSeesNormal": false,
