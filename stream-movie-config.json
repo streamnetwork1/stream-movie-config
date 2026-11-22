@@ -183,6 +183,14 @@
       "nosandbox": true,
       "movie": "https://vidlink.pro/movie/{id}",
       "tv": "https://vidlink.pro/tv/{id}/{s}/{e}"
+    },
+    {
+      "key": "smwrwa61l",
+      "name": "Server 8",
+      "on": true,
+      "nosandbox": false,
+      "movie": "https://yapgrid.com/embed/movie/{id}?autoplay=1",
+      "tv": "https://yapgrid.com/embed/tv/{id}/{s}/{e}?autoplay=1"
     }
   ],
   "about": {
