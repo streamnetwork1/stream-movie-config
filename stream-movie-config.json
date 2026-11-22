@@ -188,7 +188,7 @@
       "key": "smwrwa61l",
       "name": "Server 8",
       "on": true,
-      "nosandbox": false,
+      "nosandbox": true,
       "movie": "https://yapgrid.com/embed/movie/{id}?autoplay=1",
       "tv": "https://yapgrid.com/embed/tv/{id}/{s}/{e}?autoplay=1"
     }
